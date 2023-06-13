@@ -1,0 +1,14 @@
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\learn1\CN8\exe\LegoShop\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache

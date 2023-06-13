@@ -1,0 +1,12 @@
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\Repository.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\Repository.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\ref\Repository.dll
