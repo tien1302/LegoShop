@@ -1,4 +1,6 @@
 using AutoMapper;
+using BusinessObject.Models;
+using Microsoft.EntityFrameworkCore;
 using Repository;
 using StoreAPI.Mapper;
 
@@ -10,7 +12,9 @@ var builder = WebApplication.CreateBuilder(args);
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
 builder.Services.AddSingleton(mapper);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-
+builder.Services.AddDbContext<legoShopContext>(options =>
+options.UseSqlServer("name=ConnectionStrings:DB"
+));
 //Repository
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();

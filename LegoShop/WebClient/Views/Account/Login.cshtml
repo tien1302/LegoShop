@@ -1,4 +1,6 @@
-﻿<div class="login">
+﻿@model BusinessObject.DTOs.AccountLoginDTO;
+
+<div class="login">
 @*<div class="form2">
     <div class="frame-parent6">
         <input class="frame-child48" type="text" />
@@ -43,17 +45,17 @@
                     <div  style="display: flex; flex-direction: column; align-items: center">
                     <form asp-action="Login" style="width: 100%; margin:2rem; display:flex; align-items:center; flex-direction: column;">
                         <div class="form-group mb-3" style="width: 100%;">
-                            <label class="mb-3" @*asp-for="Email"*@>Email</label>
-                                <input type="email" @*asp-for="Email"*@ class="form-control" id="email" placeholder="Email">
+                            <label class="mb-3" asp-for="Email">Email</label>
+                                <input type="email" asp-for="Email" class="form-control" id="email" placeholder="Email">
                             </div>
                         <div class="form-group mb-5" style="width: 100%;">
-                            <label class="mb-3" @*asp-for="Password"*@>Mật khẩu</label>
-                                <input @*asp-for="Password"*@ type="password" class="form-control" id="password" placeholder="Mật khẩu">
+                            <label class="mb-3" asp-for="Password">Mật khẩu</label>
+                                <input asp-for="Password" type="password" class="form-control" id="password" placeholder="Mật khẩu">
                             </div>
                         <button type="submit" class="btn button" style="width: 100%; background-color: var(--color-cornflowerblue);">Login</button>
                         
                         </form>
-                        <span style="margin-top:1rem;">Bạn chưa có tài khoản? <a asp-controller="Account" asp-action="Register"> Đăng ký ngay </a></span>
+                        <span style="margin-top:1rem;">Bạn chưa có tài khoản? <a asp-controller="Account" asp-action="Login"> Đăng ký ngay </a></span>
                     </div>
                 
             </div>

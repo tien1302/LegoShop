@@ -26,3 +26,17 @@ C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\BusinessObject\ob
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Học\EXE201\Backup\LegoShop\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

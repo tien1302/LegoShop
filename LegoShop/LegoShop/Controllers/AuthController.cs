@@ -5,9 +5,9 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Repository;
-using StoreAPI.DTO;
 using System.Security.Claims;
 using System.Net;
+using BusinessObject.DTOs;
 
 namespace StoreAPI.Controllers
 {

@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
+using BusinessObject.DTOs;
 using BusinessObject.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Repository;
-using StoreAPI.DTO;
 using System.Net;
 using static System.Net.Mime.MediaTypeNames;
 
