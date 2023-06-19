@@ -1,0 +1,498 @@
+.footer-child10 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 264px;
+}
+.footer-child11 {
+  position: absolute;
+  top: 64px;
+  right: 1745px;
+  width: 135px;
+  height: 135px;
+  object-fit: cover;
+}
+.b38,
+.ca-hng14,
+.trang-ch14 {
+  position: absolute;
+  top: 0;
+  right: 930px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.b38,
+.ca-hng14 {
+  right: 775px;
+}
+.b38 {
+  top: 44px;
+}
+.p14 {
+  margin: 0;
+}
+.txt18 {
+  line-break: anywhere;
+  width: 100%;
+}
+.custom7,
+.div41,
+.h-tr14,
+.hotline7,
+.mnh-l7 {
+  position: absolute;
+  top: 44px;
+  right: 155px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.custom7,
+.h-tr14,
+.hotline7,
+.mnh-l7 {
+  top: 78px;
+  right: 775px;
+}
+.custom7,
+.h-tr14,
+.hotline7 {
+  top: 112px;
+}
+.h-tr14,
+.hotline7 {
+  top: 0;
+  right: 620px;
+}
+.hotline7 {
+  right: 0;
+  width: 290px;
+}
+.uiwfacebook-icon6 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon13 {
+  position: relative;
+  width: 37px;
+  height: 36px;
+}
+.vector-wrapper5 {
+  position: absolute;
+  top: 34px;
+  left: 46px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.artboard-1-17 {
+  position: absolute;
+  top: 44px;
+  left: 113px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.theo-di-chng-ti-ti-parent5 {
+  position: absolute;
+  top: 0;
+  left: 465px;
+  width: 290px;
+  height: 90px;
+}
+.footer7,
+.trang-ch-parent5 {
+  position: absolute;
+  top: 64px;
+  left: 350px;
+  width: 1065px;
+  height: 136px;
+}
+.footer7 {
+  top: 1192px;
+  left: 0;
+  width: 100%;
+  height: 264px;
+}
+.hogwarts-chamber-of2 {
+  position: absolute;
+  top: 529px;
+  left: 40px;
+  display: flex;
+  align-items: center;
+  width: 445px;
+}
+.span27 {
+  text-decoration: underline;
+}
+.b39 {
+  position: absolute;
+  top: 690px;
+  left: 40px;
+  display: flex;
+  align-items: center;
+  width: 445px;
+}
+.b40,
+.b41,
+.b42,
+.diagon-alley2,
+.hogwarts-astronomy-tower2,
+.hogwarts-icons-2 {
+  position: absolute;
+  top: 529px;
+  left: 505px;
+  display: flex;
+  align-items: center;
+  width: 445px;
+}
+.b40,
+.b41,
+.b42,
+.diagon-alley2,
+.hogwarts-icons-2 {
+  left: 970px;
+}
+.b40,
+.b41,
+.b42,
+.diagon-alley2 {
+  left: 1435px;
+}
+.b40,
+.b41,
+.b42 {
+  top: 690px;
+  left: 505px;
+}
+.b41,
+.b42 {
+  left: 970px;
+}
+.b42 {
+  left: 1435px;
+}
+.list-child,
+.list-child1,
+.list-inner,
+.list-item {
+  position: absolute;
+  top: 64px;
+  left: 40px;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 445px;
+  height: 445px;
+}
+.list-child1,
+.list-inner,
+.list-item {
+  left: 505px;
+}
+.list-child1,
+.list-inner {
+  left: 970px;
+}
+.list-child1 {
+  left: 1435px;
+}
+.image-167-icon2 {
+  position: absolute;
+  top: 154px;
+  left: 78px;
+  width: 370px;
+  height: 278px;
+  object-fit: cover;
+}
+.frame-child53 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red);
+  width: 445px;
+  height: 68px;
+}
+.thm-vo-gi13 {
+  position: absolute;
+  top: 22px;
+  right: 141px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangle-parent16,
+.rectangle-parent17,
+.rectangle-parent18,
+.rectangle-parent19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 758px;
+  left: 40px;
+  width: 445px;
+  height: 68px;
+}
+.rectangle-parent17,
+.rectangle-parent18,
+.rectangle-parent19 {
+  left: 505px;
+}
+.rectangle-parent18,
+.rectangle-parent19 {
+  left: 970px;
+}
+.rectangle-parent19 {
+  left: 1435px;
+}
+.image-168-icon2,
+.image-169-icon2 {
+  position: absolute;
+  top: 154px;
+  left: 578px;
+  width: 300px;
+  height: 278px;
+  object-fit: cover;
+}
+.image-169-icon2 {
+  left: 1043px;
+}
+.frame-child57 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.list-inner1,
+.list-inner2,
+.list-inner3 {
+  position: absolute;
+  top: 84px;
+  left: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list-inner2,
+.list-inner3 {
+  left: 880px;
+}
+.list-inner3 {
+  left: 1345px;
+}
+.image-170-icon2 {
+  position: absolute;
+  top: 154px;
+  left: 1508px;
+  width: 300px;
+  height: 278px;
+  object-fit: cover;
+}
+.list-inner4 {
+  position: absolute;
+  top: 84px;
+  left: 1810px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div42 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.material-symbolsstar-icon85,
+.material-symbolsstar-icon86 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.material-symbolsstar-icon86 {
+  left: 25px;
+}
+.material-symbolsstar-icon87,
+.material-symbolsstar-icon88,
+.material-symbolsstar-icon89 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.material-symbolsstar-icon88,
+.material-symbolsstar-icon89 {
+  left: 75px;
+}
+.material-symbolsstar-icon89 {
+  left: 100px;
+}
+.parent15 {
+  position: absolute;
+  left: 40px;
+}
+.parent15,
+.parent16,
+.parent17 {
+  top: 645px;
+  width: 145px;
+  height: 25px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+}
+.parent16 {
+  position: absolute;
+  left: 505px;
+}
+.parent17 {
+  left: 970px;
+}
+.list,
+.parent17,
+.parent18 {
+  position: absolute;
+}
+.parent18 {
+  top: 645px;
+  left: 1435px;
+  width: 145px;
+  height: 25px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkgray);
+}
+.list {
+  top: 262px;
+  left: 0;
+  width: 100%;
+  height: 931px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+}
+.danh-sch-yu {
+  position: absolute;
+  top: 64px;
+  left: calc(50% - 169px);
+}
+.header-child11,
+.title3 {
+  position: absolute;
+  width: 100%;
+}
+.title3 {
+  top: 150px;
+  left: 0;
+  height: 112px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.header-child11 {
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-gold);
+  height: 150px;
+}
+.mdicards-heart-outline-icon13 {
+  position: absolute;
+  top: 59px;
+  right: 117.73px;
+  width: 32.27px;
+  height: 32.27px;
+  overflow: hidden;
+}
+.ca-hng15,
+.h-tr15,
+.trang-ch15 {
+  position: absolute;
+  top: 63px;
+  right: 1590px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+}
+.ca-hng15,
+.h-tr15 {
+  right: 1435px;
+}
+.h-tr15 {
+  right: 1280px;
+}
+.majesticonsuser-line7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.xin-cho-n4t {
+  position: absolute;
+  top: 4px;
+  right: 0;
+}
+.majesticonsuser-line-parent1 {
+  position: absolute;
+  top: 59px;
+  left: 1585px;
+  width: 160px;
+  height: 32px;
+}
+.header-child12 {
+  position: absolute;
+  top: 28px;
+  right: 1786px;
+  width: 94px;
+  height: 94px;
+  object-fit: cover;
+}
+.material-symbolsshopping-bag-icon8 {
+  position: absolute;
+  top: 0;
+  right: 21px;
+  width: 31.82px;
+  height: 31.82px;
+  overflow: hidden;
+}
+.header7,
+.material-symbolsshopping-bag-parent5 {
+  position: absolute;
+  top: 59px;
+  left: 1827.27px;
+  width: 52.82px;
+  height: 31.82px;
+}
+.header7 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+.like {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1456px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}

@@ -25,3 +25,6 @@ C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\DataAccess\obj\De
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete

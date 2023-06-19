@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+
+}
+
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gold: #feda46;
+  --color-black: #000;
+  --color-cornflowerblue: #1874c7;
+  --color-darkgray: #b4b4b4;
+  --color-red: #f40212;
+  --color-mediumseagreen: #1da358;
+
+  /* Gaps */
+  --gap-156xl: 175px;
+  --gap-45xl: 64px;
+  --gap-xl: 20px;
+  --gap-6xl: 25px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-3xs: 10px;
+  --padding-17xl: 36px;
+  --padding-29xl: 48px;
+}
+
+.button {
+    background-color: var(--color-red);
+    border-radius: 0;
+    padding: 15px;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-segoe-ui);
+    color: var(--color-white);
+    font-weight: bolder;
+}
+.name {
+    color: var(--color-black);
+    font-weight: bolder;
+    font-family: var(--font-segoe-ui);
+    font-size: var(--font-size-17xl);
+    margin-top: 20px;
+}
+.tieude {
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    font-weight: bolder;
+}
