@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
+using BusinessObject.DTOs;
 using BusinessObject.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Repository;
-using StoreAPI.DTO;
 using System.Net;
 
 namespace StoreAPI.Controllers

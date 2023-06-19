@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using BusinessObject.DTOs;
 using BusinessObject.Models;
-using StoreAPI.DTO;
 
 namespace StoreAPI.Mapper
 {
