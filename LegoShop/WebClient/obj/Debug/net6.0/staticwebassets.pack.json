@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebClient.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\detail.css",
+      "PackagePath": "staticwebassets\\css\\detail.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\like.css",
+      "PackagePath": "staticwebassets\\css\\like.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\payment.css",
+      "PackagePath": "staticwebassets\\css\\payment.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\shopping.css",
+      "PackagePath": "staticwebassets\\css\\shopping.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\success.css",
+      "PackagePath": "staticwebassets\\css\\success.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\css\\support.css",
+      "PackagePath": "staticwebassets\\css\\support.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\antdesignnumberoutlined.svg",
+      "PackagePath": "staticwebassets\\public\\antdesignnumberoutlined.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\artboard-1-1@3x.png",
+      "PackagePath": "staticwebassets\\public\\artboard-1-1@3x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\bxsdiscount.svg",
+      "PackagePath": "staticwebassets\\public\\bxsdiscount.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\fearrowleft.svg",
+      "PackagePath": "staticwebassets\\public\\fearrowleft.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\fearrowleft1.svg",
+      "PackagePath": "staticwebassets\\public\\fearrowleft1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\fearrowleft2.svg",
+      "PackagePath": "staticwebassets\\public\\fearrowleft2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\fearrowleft21.svg",
+      "PackagePath": "staticwebassets\\public\\fearrowleft21.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\fearrowleft22.svg",
+      "PackagePath": "staticwebassets\\public\\fearrowleft22.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\frame.svg",
+      "PackagePath": "staticwebassets\\public\\frame.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\grommeticonsdeliver.svg",
+      "PackagePath": "staticwebassets\\public\\grommeticonsdeliver.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-1129.svg",
+      "PackagePath": "staticwebassets\\public\\group-1129.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-1130.svg",
+      "PackagePath": "staticwebassets\\public\\group-1130.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-1141.svg",
+      "PackagePath": "staticwebassets\\public\\group-1141.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-11411.svg",
+      "PackagePath": "staticwebassets\\public\\group-11411.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-11412.svg",
+      "PackagePath": "staticwebassets\\public\\group-11412.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-11413.svg",
+      "PackagePath": "staticwebassets\\public\\group-11413.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-1185.svg",
+      "PackagePath": "staticwebassets\\public\\group-1185.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group-11851.svg",
+      "PackagePath": "staticwebassets\\public\\group-11851.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\group.svg",
+      "PackagePath": "staticwebassets\\public\\group.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\heroiconsoutlinecake.svg",
+      "PackagePath": "staticwebassets\\public\\heroiconsoutlinecake.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\icbaselineminus.svg",
+      "PackagePath": "staticwebassets\\public\\icbaselineminus.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\icbaselineminus1.svg",
+      "PackagePath": "staticwebassets\\public\\icbaselineminus1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\icbaselineplus.svg",
+      "PackagePath": "staticwebassets\\public\\icbaselineplus.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\icbaselineplus1.svg",
+      "PackagePath": "staticwebassets\\public\\icbaselineplus1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-154@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-154@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-1551@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-1551@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-1552@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-1552@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-1553@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-1553@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-155@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-155@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-160@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-160@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-164@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-164@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-165@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-165@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-166@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-166@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-167@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-167@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-168@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-168@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-169@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-169@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-170@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-170@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-173@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-173@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-174@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-174@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-175@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-175@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-179@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-179@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-181@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-181@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-186@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-186@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-193@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-193@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-199@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-199@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-200@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-200@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\image-201@2x.png",
+      "PackagePath": "staticwebassets\\public\\image-201@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline1.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline2.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline3.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline3.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline4.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline4.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline5.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline5.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline6.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline6.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\majesticonsuserline7.svg",
+      "PackagePath": "staticwebassets\\public\\majesticonsuserline7.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolscheck.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolscheck.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline1.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline2.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline3.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline3.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline4.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline4.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline5.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline5.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline6.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline6.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline7.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline7.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsshoppingbagoutline8.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsshoppingbagoutline8.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar1.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar2.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar3.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar3.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar4.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar4.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar5.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar5.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar6.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar6.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\materialsymbolsstar7.svg",
+      "PackagePath": "staticwebassets\\public\\materialsymbolsstar7.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline1.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline2.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline3.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline3.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline4.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline4.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline5.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline5.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline6.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline6.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline7.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline7.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdicardsheartoutline8.svg",
+      "PackagePath": "staticwebassets\\public\\mdicardsheartoutline8.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\mdiweb.svg",
+      "PackagePath": "staticwebassets\\public\\mdiweb.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\phpuzzlepiecethin.svg",
+      "PackagePath": "staticwebassets\\public\\phpuzzlepiecethin.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-1@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-1@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-2@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-2@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-619@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-619@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-631@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-631@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-632@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-632@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-633@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-633@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-634@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-634@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-635@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-635@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-636@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-636@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-637@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-637@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-638@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-638@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-639@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-639@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-640@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-640@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-641@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-641@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-642@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-642@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-6441@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-6441@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\rectangle-644@2x.png",
+      "PackagePath": "staticwebassets\\public\\rectangle-644@2x.png"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\uiwfacebook.svg",
+      "PackagePath": "staticwebassets\\public\\uiwfacebook.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\uiwfacebook1.svg",
+      "PackagePath": "staticwebassets\\public\\uiwfacebook1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector-10.svg",
+      "PackagePath": "staticwebassets\\public\\vector-10.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector-14.svg",
+      "PackagePath": "staticwebassets\\public\\vector-14.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector-141.svg",
+      "PackagePath": "staticwebassets\\public\\vector-141.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector.svg",
+      "PackagePath": "staticwebassets\\public\\vector.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector1.svg",
+      "PackagePath": "staticwebassets\\public\\vector1.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector10.svg",
+      "PackagePath": "staticwebassets\\public\\vector10.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector11.svg",
+      "PackagePath": "staticwebassets\\public\\vector11.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector12.svg",
+      "PackagePath": "staticwebassets\\public\\vector12.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector2.svg",
+      "PackagePath": "staticwebassets\\public\\vector2.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector3.svg",
+      "PackagePath": "staticwebassets\\public\\vector3.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector4.svg",
+      "PackagePath": "staticwebassets\\public\\vector4.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector5.svg",
+      "PackagePath": "staticwebassets\\public\\vector5.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector6.svg",
+      "PackagePath": "staticwebassets\\public\\vector6.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector7.svg",
+      "PackagePath": "staticwebassets\\public\\vector7.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector8.svg",
+      "PackagePath": "staticwebassets\\public\\vector8.svg"
+    },
+    {
+      "Id": "D:\\learn1\\CN8\\exe\\LegoShop\\LegoShop\\WebClient\\wwwroot\\public\\vector9.svg",
+      "PackagePath": "staticwebassets\\public\\vector9.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebClient.props",
+      "PackagePath": "build\\WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebClient.props",
+      "PackagePath": "buildMultiTargeting\\WebClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebClient.props",
+      "PackagePath": "buildTransitive\\WebClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

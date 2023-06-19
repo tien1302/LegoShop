@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebClient</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/global.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/cart.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/detail.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/like.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/payment.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/register.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/shopping.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/success.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/support.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebClient.styles.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Segoe UI:wght@400;700&display=swap" />
+</head>
+<body>
+    <header>
+        <div class="header">
+            <a class="trang-ch">TRANG CHỦ</a>
+            <a class="ca-hng">CỬA HÀNG</a>
+            <a class="h-tr">HỖ TRỢ</a>
+            <img class="header-child" alt="" src="~/public/rectangle-1@2x.png" />
+
+            <div class="majesticonsuser-line-parent">
+                <a class="majesticonsuser-line">
+                    <img class="group-icon" alt="" src="~/public/group.svg" />
+                </a>
+                <a class="mdicards-heart-outline">
+                    <img class="vector-icon" alt="" src="~/public/vector.svg" />
+                </a>
+                <a class="material-symbolsshopping-bag-parent">
+                    <img class="material-symbolsshopping-bag-icon" alt="" src="~/public/materialsymbolsshoppingbagoutline.svg" />
+                    <div class="div">(0)</div>
+                </a>
+            </div>
+        </div>
+    </header>
+    <div >
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer style="margin-top:3rem;">
+        <div class="footer">
+            <img class="footer-child" alt="" src="~/public/rectangle-644@2x.png" />
+
+            <div class="trang-ch-parent">
+                <a class="trang-ch1">TRANG CHỦ</a>
+                <a class="ca-hng1">CỬA HÀNG</a>
+                <a class="b4">Bộ</a>
+                <div class="div5">
+                    <span class="txt">
+                        <p class="l-dch-v">028 123 456 789</p>
+                        <p class="l-dch-v">(8:00 - 19:00)</p>
+                    </span>
+                </div>
+                <a class="mnh-l">Mảnh lẻ</a>
+                <a class="custom">Custom</a>
+                <a class="h-tr1">HỖ TRỢ</a>
+                <b class="hotline">HOTLINE</b>
+                <div class="theo-di-chng-ti-ti-parent">
+                    <b class="hotline">THEO DÕI CHÚNG TÔI TẠI</b>
+                    <a class="uiwfacebook">
+                        <img class="vector-icon3" alt="" src="~/public/vector3.svg" />
+                    </a>
+                    <a class="vector-wrapper">
+                        <img class="vector-icon4" alt="" src="~/public/vector4.svg" />
+                    </a>
+                    <a class="artboard-1-1"> </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

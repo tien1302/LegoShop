@@ -1,0 +1,43 @@
+﻿<div class="register">
+
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-md-5 mt-5">
+
+                <div style=" display: flex; justify-content: center;">
+                    <p class="tieude">Đăng ký</p>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center">
+                    <form asp-action="Login" style="width: 100%; margin:2rem; display:flex; align-items:center; flex-direction: column;">
+                        <div class="form-group mb-3" style="width: 100%;">
+                            <label class="mb-3" @*asp-for="Email"*@>Họ</label>
+                            <input type="email" @*asp-for="Email"*@ class="form-control" id="email" placeholder="Họ">
+                        </div>
+                        <div class="form-group mb-3" style="width: 100%;">
+                            <label class="mb-3" @*asp-for="Email"*@>Tên</label>
+                            <input type="email" @*asp-for="Email"*@ class="form-control" id="email" placeholder="Tên">
+                        </div>
+                        <div class="form-group mb-3" style="width: 100%;">
+                            <label class="mb-3" @*asp-for="Email"*@>Email</label>
+                            <input type="email" @*asp-for="Email"*@ class="form-control" id="email" placeholder="Email">
+                        </div>
+                        <div class="form-group mb-3" style="width: 100%;">
+                            <label class="mb-3" @*asp-for="Email"*@>Số điện thoại</label>
+                            <input type="email" @*asp-for="Email"*@ class="form-control" id="email" placeholder="Số điện thoại">
+                        </div>
+                        <div class="form-group mb-5" style="width: 100%;">
+                            <label class="mb-3" @*asp-for="Password"*@>Mật khẩu</label>
+                            <input @*asp-for="Password"*@ type="password" class="form-control" id="password" placeholder="Mật khẩu">
+                        </div>
+                        <button type="submit" class="btn button" style="width: 100%; background-color: var(--color-cornflowerblue);">Đăng ký</button>
+
+                    </form>
+                    <span style="margin-top:1rem;">Bạn đã có tài khoản? <a asp-controller="Account" asp-action="Register"> nhập ngay </a></span>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

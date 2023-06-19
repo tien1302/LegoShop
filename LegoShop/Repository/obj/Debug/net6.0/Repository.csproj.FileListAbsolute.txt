@@ -27,3 +27,8 @@ C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\Repository\obj\De
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\Repository\obj\Debug\net6.0\refint\Repository.dll
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\Administrator\Documents\Học\EXE201\Project\LegoShop\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\BusinessObject.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\DataAccess.dll
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\BusinessObject.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\bin\Debug\net6.0\DataAccess.pdb
+D:\learn1\CN8\exe\LegoShop\LegoShop\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete

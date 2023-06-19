@@ -1,0 +1,418 @@
+.footer-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 264px;
+}
+.footer-inner {
+  position: absolute;
+  top: 64px;
+  right: 1745px;
+  width: 135px;
+  height: 135px;
+  object-fit: cover;
+}
+.b5,
+.ca-hng2,
+.trang-ch2 {
+  position: absolute;
+  top: 0;
+  right: 930px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.b5,
+.ca-hng2 {
+  right: 775px;
+}
+.b5 {
+  top: 44px;
+}
+.txt1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.custom1,
+.div6,
+.h-tr2,
+.hotline1,
+.mnh-l1 {
+  position: absolute;
+  top: 44px;
+  right: 155px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.custom1,
+.h-tr2,
+.hotline1,
+.mnh-l1 {
+  top: 78px;
+  right: 775px;
+}
+.custom1,
+.h-tr2,
+.hotline1 {
+  top: 112px;
+}
+.h-tr2,
+.hotline1 {
+  top: 0;
+  right: 620px;
+}
+.hotline1 {
+  right: 0;
+  width: 290px;
+}
+.uiwfacebook-icon {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.vector-icon5 {
+  position: relative;
+  width: 37px;
+  height: 36px;
+}
+.vector-container {
+  position: absolute;
+  top: 34px;
+  left: 46px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.artboard-1-11 {
+  position: absolute;
+  top: 44px;
+  left: 113px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.theo-di-chng-ti-ti-group,
+.trang-ch-group {
+  position: absolute;
+  top: 0;
+  left: 465px;
+  width: 290px;
+  height: 90px;
+}
+.trang-ch-group {
+  top: 64px;
+  left: 350px;
+  width: 1065px;
+  height: 136px;
+}
+.button-back-child,
+.footer1 {
+  position: absolute;
+  top: 1601px;
+  left: 0;
+  width: 100%;
+  height: 264px;
+}
+.button-back-child {
+  top: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 599px;
+  height: 70px;
+}
+.tip-tc-mua {
+  position: absolute;
+  top: 23px;
+  right: 225px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-segoe-ui);
+  color: var(--color-white);
+  text-align: center;
+}
+.button-back {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1426px;
+  left: 661px;
+  width: 599px;
+  height: 70px;
+}
+.span4 {
+  text-decoration: underline;
+}
+.b6,
+.n4t123456789 {
+  position: absolute;
+  top: 344px;
+  right: 21px;
+  text-align: right;
+}
+.n4t123456789 {
+  top: 64px;
+}
+.form-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 951px;
+  height: 512px;
+}
+.tin-hng,
+.tng-gi-tr {
+  position: absolute;
+  top: 448px;
+  right: 745px;
+  display: flex;
+  align-items: center;
+  width: 185px;
+}
+.tin-hng {
+  top: 256px;
+  right: 846px;
+  width: 84px;
+}
+.min-ph,
+.ph-vn-chuyn {
+  position: absolute;
+  top: 300px;
+}
+.ph-vn-chuyn {
+  right: 801px;
+  display: flex;
+  align-items: center;
+  width: 129px;
+}
+.min-ph {
+  right: 21px;
+  text-align: right;
+}
+.dch-v-lp1 {
+  position: absolute;
+  top: 344px;
+  right: 775px;
+  display: flex;
+  align-items: center;
+  width: 155px;
+}
+.b7,
+.b8 {
+  position: absolute;
+  top: 256px;
+  right: 21px;
+  text-align: right;
+}
+.b8 {
+  top: 448px;
+  color: var(--color-red);
+}
+.form-inner,
+.form-item {
+  position: absolute;
+  top: 407.5px;
+  left: 21px;
+  width: 909px;
+  height: 1px;
+}
+.form-inner {
+  top: 127.5px;
+}
+.tm-tt-n {
+  top: 168px;
+  right: 627px;
+  font-size: var(--font-size-17xl);
+  width: 303px;
+}
+.b9,
+.hogwarts-castle,
+.m-vn-n,
+.s-lng-01,
+.tm-tt-n {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.m-vn-n {
+  top: 40px;
+  right: 728px;
+  font-size: var(--font-size-17xl);
+  width: 202px;
+}
+.b9,
+.hogwarts-castle,
+.s-lng-01 {
+  top: 680px;
+  right: 316px;
+  width: 305px;
+}
+.b9,
+.s-lng-01 {
+  top: 724px;
+}
+.s-lng-01 {
+  top: 768px;
+}
+.form-child1 {
+  position: absolute;
+  top: 552px;
+  left: 0;
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 951px;
+  height: 348px;
+}
+.chi-tit-n {
+  position: absolute;
+  top: 592px;
+  right: 635px;
+  font-size: var(--font-size-17xl);
+}
+.image-155-icon {
+  position: absolute;
+  top: 680px;
+  left: 69px;
+  width: 199.78px;
+  height: 180.44px;
+  object-fit: cover;
+}
+.form {
+  position: absolute;
+  top: 462px;
+  left: 485px;
+  width: 951px;
+  height: 900px;
+}
+.t-hng-thnh {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 454px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 909px;
+}
+.chng-ti-s {
+  margin: 0;
+}
+.chng-ti-s-container {
+  position: absolute;
+  top: 148px;
+  left: 506px;
+  font-size: var(--font-size-lg);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 909px;
+}
+.header-item,
+.title {
+  position: absolute;
+  width: 100%;
+}
+.title {
+  top: 154px;
+  left: 0;
+  height: 244px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+}
+.header-item {
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-gold);
+  height: 150px;
+}
+.majesticonsuser-line1 {
+  position: absolute;
+  top: 59px;
+  left: 1713px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.mdicards-heart-outline-icon {
+  position: absolute;
+  top: 59px;
+  right: 117.73px;
+  width: 32.27px;
+  height: 32.27px;
+  overflow: hidden;
+}
+.ca-hng3,
+.h-tr3,
+.trang-ch3 {
+  position: absolute;
+  top: 63px;
+  right: 1590px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 135px;
+}
+.ca-hng3,
+.h-tr3 {
+  right: 1435px;
+}
+.h-tr3 {
+  right: 1280px;
+}
+.header-inner {
+  position: absolute;
+  top: 28px;
+  right: 1786px;
+  width: 94px;
+  height: 94px;
+  object-fit: cover;
+}
+.material-symbolsshopping-bag-icon1 {
+  position: absolute;
+  top: 0;
+  right: 21px;
+  width: 31.82px;
+  height: 31.82px;
+  overflow: hidden;
+}
+.div7 {
+  position: absolute;
+  top: 4px;
+  right: 0;
+}
+.header1,
+.material-symbolsshopping-bag-group {
+  position: absolute;
+  top: 59px;
+  left: 1827.27px;
+  width: 52.82px;
+  height: 31.82px;
+}
+.header1 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  text-align: center;
+}
+.success {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1865px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-segoe-ui);
+}

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "LegoShop\WebAPI.csproj", "{8F40D67B-41AE-48CC-8E2D-B9A0B78344AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "LegoShop\WebAPI.csproj", "{8F40D67B-41AE-48CC-8E2D-B9A0B78344AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{AAFFA254-7834-411F-AC9B-B22DF38167DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObject", "BusinessObject\BusinessObject.csproj", "{AAFFA254-7834-411F-AC9B-B22DF38167DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{5619EBDC-70C0-4713-9FD3-13206E45DD6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{5619EBDC-70C0-4713-9FD3-13206E45DD6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{9A88DDAE-932A-45E2-BA94-02A96518ADCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{9A88DDAE-932A-45E2-BA94-02A96518ADCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{95505BE2-10A8-475A-AF8E-469E9BB83BB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9A88DDAE-932A-45E2-BA94-02A96518ADCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A88DDAE-932A-45E2-BA94-02A96518ADCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A88DDAE-932A-45E2-BA94-02A96518ADCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95505BE2-10A8-475A-AF8E-469E9BB83BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95505BE2-10A8-475A-AF8E-469E9BB83BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95505BE2-10A8-475A-AF8E-469E9BB83BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95505BE2-10A8-475A-AF8E-469E9BB83BB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
